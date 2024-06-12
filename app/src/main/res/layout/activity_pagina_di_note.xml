@@ -1,0 +1,51 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pagina_di_note"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".note.view.Pagina_di_note">
+
+    <include
+        android:id="@+id/toolbar_pagina_di_note_view"
+        layout="@layout/toolbar"
+        tools:layout_editor_absoluteX="56dp"
+        tools:layout_editor_absoluteY="631dp" />
+
+    <SearchView
+        android:id="@+id/searchView_elementi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:queryHint="Search notes..." />
+
+    <GridView
+        android:id="@+id/elements_grid_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:padding="7dp"
+        app:layout_constraintTop_toBottomOf="@+id/searchView_elementi"
+        app:layout_constraintBottom_toTopOf="@+id/toolbar_pagina_di_note_view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addElemento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="28dp"
+        android:backgroundTint="#6feca4"
+        android:clickable="true"
+        android:src="@drawable/ic_menu_add"
+        app:borderWidth="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/toolbar_pagina_di_note_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_add"
+        android:contentDescription="@string/button_to_add_new_elements" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

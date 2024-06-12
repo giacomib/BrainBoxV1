@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">brainbox</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="principale">Principale</string>
+    <string name="page_title">Page title</string>
+    <string name="immagine">Immagine</string>
+    <string name="tabella">Tabella</string>
+    <string name="mappa">Mappa</string>
+    <string name="calendario">Calendario</string>
+    <string name="nota_testuale">Nota testuale</string>
+    <string name="checklist">CheckList</string>
+    <string name="image_description">An image selected from the user</string>
+    <string name="recupera_password">Recupera password</string>
+    <string name="to_do_list">To Do list</string>
+    <string name="titolo">Titolo</string>
+    <string name="contenuto">Contenuto</string>
+    <string name="crea">Crea</string>
+    <string name="nuova_pagina_di_note">Nuova pagina di note</string>
+    <string name="le_mie_pagine_di_note">Le mie pagine di note</string>
+    <string name="button_to_add_new_note_pages">button to add new note pages</string>
+    <string name="profile_image">profile image</string>
+    <string name="salva">Salva</string>
+    <string name="button_to_add_new_elements">button to add new elements</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="data">Data</string>
+    <string name="logout_icon">logout icon</string>
+    <string name="main_page_icon">main page icon</string>
+    <string name="profile_icon">profile icon</string>
+</resources>

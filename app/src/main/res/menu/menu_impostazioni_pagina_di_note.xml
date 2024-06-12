@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/edit"
+        android:icon="@drawable/ic_edit_menu_impostazioni"
+        android:title="Modifica"/>
+    <item
+        android:id="@+id/primo_piano"
+        android:icon="@drawable/ic_primo_piano_menu_impostazioni"
+        android:title="Primo piano"/>
+    <item
+        android:id="@+id/notifiche"
+        android:icon="@drawable/ic_notifiche_menu_impostazioni"
+        android:title="Notifiche"/>
+    <item
+        android:id="@+id/condividi"
+        android:icon="@drawable/ic_share_menu_impostazioni"
+        android:title="Condividi"/>
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete_menu_impostazioni"
+        android:title="Elimina"/>
+</menu>

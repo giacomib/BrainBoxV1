@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#6feca4"
+    app:layout_constraintBottom_toBottomOf="parent"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/logout_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="35dp"
+        android:src="@drawable/logout_logo"
+        android:contentDescription="@string/logout_icon" />
+
+    <ImageView
+        android:id="@+id/note_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/note_logo"
+        android:contentDescription="@string/main_page_icon" />
+
+
+    <ImageView
+        android:id="@+id/usr_opt_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="35dp"
+        android:src="@drawable/user_logo_black"
+        android:contentDescription="@string/profile_icon" />
+
+</RelativeLayout>
