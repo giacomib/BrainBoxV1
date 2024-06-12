@@ -18,7 +18,7 @@ SI NOTI CHE L'APPLICAZIONE NON È TERMINATA (in quanto il focus del progetto non
 
 University project to explore and use agile methods (Scrum); to implement Scrum we have done two sprints, in which we have realized an Android application in Java: BrainBox, an app to take notes.
 
-NOTE: the application is not finished, because the focus of the project wasn't about the application itself, is was instead in the use of agile methods.
+NOTE: the application is not finished, the focus of the project wasn't about the application itself, is was instead on the use of agile methods.
 
 ## Autori
  - Mazzitelli Davide
