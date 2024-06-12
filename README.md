@@ -1,6 +1,6 @@
-# BrainBox
+# BrainBoxV1
 
-## Descrizione App
+## Descrizione
 
 BrainBox è un'app mobile per catturare e organizzare le tue idee in modo intuitivo e personalizzato.
 
@@ -12,6 +12,14 @@ BrainBox permetterà inoltre di impostare notifiche relative alle tue note, gara
 
 Un'ulteriore estensione potrebbe riguardare la creazione di pagine condivise, potendo quindi invitare amici, colleghi o familiari a visualizzare e modificare le tue note in tempo reale.
 
-## Authors
+SI NOTI CHE L'APPLICAZIONE NON È TERMINATA (in quanto il focus del progetto non era l'applicazione in se, ma l'utilizzo di metodi agili).
+
+## English description
+
+University project to explore and use agile methods (Scrum); to implement Scrum we have done two sprints, in which we have realized an Android application in Java: BrainBox, an app to take notes.
+
+NOTE: the application is not finished, because the focus of the project wasn't about the application itself, is was instead in the use of agile methods.
+
+## Autori
  - Mazzitelli Davide
- - Motta Giacomo
+ - Motta Giacomo (me)
