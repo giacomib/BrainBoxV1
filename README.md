@@ -12,7 +12,7 @@ BrainBox permetterà inoltre di impostare notifiche relative alle tue note, gara
 
 Un'ulteriore estensione potrebbe riguardare la creazione di pagine condivise, potendo quindi invitare amici, colleghi o familiari a visualizzare e modificare le tue note in tempo reale.
 
-SI NOTI CHE L'APPLICAZIONE NON È TERMINATA (in quanto il focus del progetto non era l'applicazione in se, ma l'utilizzo di metodi agili).
+SI NOTI CHE L'APPLICAZIONE NON È TERMINATA (in quanto il focus del progetto non era l'applicazione in sé, ma l'utilizzo di metodi agili).
 
 ## English description
 
